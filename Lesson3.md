@@ -2,7 +2,7 @@
 
 ## what is an LED?
 
-```c
+```cpp
 #include <iostream>;
 using namespace std;
 
