@@ -4,6 +4,7 @@
 
 ```c
 #include <iostream>;
+using namespace std;
 
 int c = 11;
 
