@@ -1,6 +1,6 @@
-# Lesson 1: LEDs
+#Lesson 1: LED
 
-## what is an LED?
+##what is an LED?
 
 ```c
 #include <iostream>;
