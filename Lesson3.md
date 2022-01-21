@@ -13,7 +13,7 @@ char note = 'c';
 
 int main(){
 
-    cout<<"Hello World";
+    cout << "Hello World";
 
 }
 ```
